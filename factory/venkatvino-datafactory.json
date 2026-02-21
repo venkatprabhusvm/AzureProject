@@ -1,0 +1,9 @@
+{
+	"name": "venkatvino-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "aa758748-f7c9-4254-86ea-781bec0b66fb",
+		"tenantId": "6880a13e-5a20-4026-8231-a3a1f967f96e"
+	}
+}
